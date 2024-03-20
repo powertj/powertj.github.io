@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our <a href='https://diff-prob-rob.org/'>Differentiable Probabilistic Robotics</a> workshop at IROS 2023 in Detroit was attended by over 150 registrants!
+Our <a href='https://diff-prob-rob.org/'>Differentiable Probabilistic Robotics</a> workshop at IROS 2023 in Detroit was attended by over 200 registrants!
