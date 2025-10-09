@@ -14,7 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Robotics Research Engineer at [Google DeepMind](https://deepmind.google/). I completed my PhD in Robotics at the University of Michigan where I worked at the [ARM](http://arm.eecs.umich.edu/#) lab, advised by [Dmitry Berenson](http://web.eecs.umich.edu/~dmitryb/). I previously interned at Honda Research Institute USA. I received my MEng in mechanical engineering from Imperial College London in 2016. During my PhD, I developed algorithms using the planning-as-inference paradigm and deep generative models to accelerate trajectory optimization.  
+I'm a Research Engineer at [Google DeepMind](https://deepmind.google/). 
+
+I completed my PhD in Robotics at the University of Michigan where I worked at the [ARM](http://arm.eecs.umich.edu/#) lab, advised by [Dmitry Berenson](http://web.eecs.umich.edu/~dmitryb/). During my PhD, I worked on applying deep generative models (normalising flows, diffusion models) to accelerate planning & trajectory optimization. I previously interned at Honda Research Institute USA where I worked on dexterous manipulation.
 
 
 
